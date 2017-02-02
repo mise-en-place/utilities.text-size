@@ -1,0 +1,22 @@
+{
+  "name": "mep-utilities.text-size",
+  "version": "1.0.0",
+  "description": "Text Size Utility",
+  "main": "stylesheets/_utility-text-size.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "name": "utility-text-size",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/utilities.text-size.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
