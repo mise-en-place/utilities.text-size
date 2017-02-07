@@ -18,5 +18,9 @@
     "url": "https://github.com/mise-en-place/utilities.text-size.git"
   },
   "author": "Kind",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mep-tools.font-scale": "github:mise-en-place/tools.font-scale",
+    "mep-tools.type-config": "github:mise-en-place/tools.type-config"
+  }
 }
